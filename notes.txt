@@ -20,7 +20,7 @@ ps - processes
 w - who's logged in & what they're doing
 rm - won't remove a directory
 rmdir - removes directory
-rm -R - recursive - BE CAREFUL!
+rm -R - recursive - BE CAREFUL! - will delete!
 rm -fR - force - BE CAREFUL!
 !! - "bangs"
 cmp - compares two files
