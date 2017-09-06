@@ -21,7 +21,7 @@ w - who's logged in & what they're doing
 rm - won't remove a directory
 rmdir - removes directory
 rm -R - recursive - BE CAREFUL!
-rm -fR - force
+rm -fR - force - BE CAREFUL!
 !! - "bangs"
 cmp - compares two files
 
