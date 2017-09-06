@@ -1,0 +1,32 @@
+Internet = machines talking to each other
+Web = content passed around
+front-end = HTML, CSS, JS
+
+/bin - binaries
+. - this current directory
+.. - up one directory
+/dev - devices
+/ - like dialing a "1" (go back to HD)
+/etc - "etsy" - host-specific config files
+/usr - for everyone (different from "Users")
+/tmp - temporary - anyone can store here
+/var - variables
+
+touch - creates new file (we'll rarely use this)
+cat - prints file to terminal
+head - prints first 10 lines
+tail - prints last 10 lines
+ps - processes
+w - who's logged in & what they're doing
+rm - won't remove a directory
+rmdir - removes directory
+rm -R - recursive - BE CAREFUL!
+rm -fR - force
+!! - "bangs"
+cmp - compares two files
+
+3 types of files in a git repository:
+	1. untracked - sees it but doesn't know anything about it
+	2. tracked - notices changes
+	3. ignore - not put in repository, cannot commit (e.g. config, node modules)
+
